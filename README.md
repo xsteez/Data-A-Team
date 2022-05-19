@@ -333,9 +333,7 @@ Saturday 18:00 to 21:00 32  13  3   Labor Day   40.62
 
 
 
-![Chart
-
-Description automatically generated](Aspose.Words.349c894f-85c5-4f03-9862-6fa0baf4fdfa.004.png)
+![Chart Description automatically generated](./images/Aspose.Words.349c894f-85c5-4f03-9862-6fa0baf4fdfa.004.png)
 
 **#### \*\*Interpretation\*\* : 57% of all fatalities are caused by drinking drivers on Saturday and Friday nights.**  
 
@@ -347,9 +345,7 @@ Only 7% of fatalities are caused by drinking drivers on Wednesday and Thursday f
 Another key finding was that during the major holidays – Labor Day, Memorial Day, New Year’s Day the percent of AID involvement shot up to as much as 90%
 
 
-![Chart, bar chart
-
-Description automatically generated](Aspose.Words.349c894f-85c5-4f03-9862-6fa0baf4fdfa.005.png)
+![Chart, bar chart Description automatically generated](./images/Aspose.Words.349c894f-85c5-4f03-9862-6fa0baf4fdfa.005.png)
 
 **#### \*\*Interpretation\*\* :** 
 
@@ -380,9 +376,7 @@ Saturday 18:00 to 21:00 32  13  3   Labor Day   40.62
 
 
 
-![Chart, bar chart
-
-Description automatically generated](Aspose.Words.349c894f-85c5-4f03-9862-6fa0baf4fdfa.006.png)
+![Chart, bar chartDescription automatically generated](./images/Aspose.Words.349c894f-85c5-4f03-9862-6fa0baf4fdfa.006.png)
 
 On average, 24.5% of fatalities involve drinking drivers. During the best 3 hour window, on Wednesdays between 9am and noon, only 8% of fatalities are caused by Drinking Drivers.   
 
@@ -400,9 +394,7 @@ Used a Train Test Split of 5% since forecasting works better for small time peri
 
 Monthly – needed one diff to make stationary. Weekly and daily were already stationary. 
 
-![Chart
-
-Description automatically generated](Aspose.Words.349c894f-85c5-4f03-9862-6fa0baf4fdfa.007.png)
+![Chart Description automatically generated](./images/Aspose.Words.349c894f-85c5-4f03-9862-6fa0baf4fdfa.007.png)
 
 \*\*Interpretation\*\* : 
 
@@ -432,9 +424,7 @@ Tried various models with varying sequence of length size and LSTM and GRU layer
 
 The params for the best model are in a later section. 
 
-![Chart, line chart
-
-Description automatically generated](Aspose.Words.349c894f-85c5-4f03-9862-6fa0baf4fdfa.008.png)
+![Chart, line chart Description automatically generated](./images/Aspose.Words.349c894f-85c5-4f03-9862-6fa0baf4fdfa.008.png)
 
 \*\*Interpretation:\*\*  
 
